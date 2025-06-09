@@ -1,1 +1,2 @@
-# ping-ponk
+# ping-ponk 
+игра про пинг понг
